@@ -1,0 +1,4 @@
+if you have QT5 import problems,  run  the program
+:wwith LD_LIBRARY_PATH=/path/to/your/Qt/libs/location to help linker find needed Qt version.
+for example:
+ export LD_LIBRARY_PATH=/home/isat/.virtualenvs/taurus_control/lib/python3.6/site-packages/PyQt5/Qt5/lib/
